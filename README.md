@@ -34,6 +34,3 @@ To ensure that your local repository is always up to date with the latest change
 
 ## Contributing
 Guidelines for contributing to the project.
-
-## License
-Information about the project's license.
